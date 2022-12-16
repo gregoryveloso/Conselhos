@@ -12,8 +12,15 @@ body{
 }
 
 
-#botao-aleatorio, #pesquisa{
+.topSpace {
     margin-top: 50px;
 }
 
+#idCon{
+    padding: 1.5px;
+}
+
+#btnCons{
+    margin-top: -5px;
+}
 
